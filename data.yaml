@@ -1,0 +1,14 @@
+path: E:/my_files/ML files/YOLO_projects/Alpaca_object_detection/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ["Alpaca"]
+
+roboflow:
+  workspace: zharasbek-bimagambetov
+  project: alpaca-5jmfl
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zharasbek-bimagambetov/alpaca-5jmfl/dataset/1
